@@ -1,3 +1,13 @@
+/*
+    Author of edits after starter: Kurt Newcomb 
+    
+    Approach:
+    Tried to make it work... also, added a random number value generator 
+    just because it was easy enough to do and made things a little spicier
+    
+*/
+
+
 #define _GNU_SOURCE
 #include <stdlib.h>
 #include <stdio.h>
